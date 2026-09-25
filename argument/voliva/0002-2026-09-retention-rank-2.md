@@ -10,7 +10,7 @@
 - Matrix username: @voliva:matrix.org
 - Polkadot address: 16JGzEsi8gcySKjpmxHVrkLTHdFHodRepEz8n244gNZpr9J
 - Current rank: Rank 2 (Proficient)
-- Date of initial induction: 2026/07/10
+- Date of initial induction: 2026/06/09
 - Date of last report: 2026/06/09
 - Area(s) of Expertise/Interest:
 
